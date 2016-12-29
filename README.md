@@ -1,2 +1,15 @@
 # akashyssboddeda.github.io
-## Welcome to my personal webspace project!!!
+## ThankQ for visiting my portfolio!!!
+
+##
+  MyWebsite/
+  |--css/
+  |  |--materialize.css
+  |
+  |--fonts/
+  |  |--roboto/
+  |
+  |--js/
+  |  |--materialize.js
+  |
+  |--index.html
