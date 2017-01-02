@@ -3,10 +3,15 @@
 body {
 	background: #ffffff;
 	font-family: "Roboto", sans-serif;
-	font-weight: 300;
 }
 
 header {
 	padding: 20px 0;
 	color: #ffffff;
+}
+
+header .row1 {
+	display: flex;
+	align-items: center;
+	font-weight: 300;
 }
