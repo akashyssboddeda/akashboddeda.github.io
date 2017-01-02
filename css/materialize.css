@@ -11,7 +11,6 @@ header {
 }
 
 header .row1 {
-	display: flex;
 	align-items: center;
 	font-weight: 300;
 }
