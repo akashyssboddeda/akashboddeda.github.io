@@ -25,3 +25,8 @@ header h1 {
 col-sm-12 text-center {
 	text-align: center;
 }
+
+header nav {
+	display: flex;
+	justify-content: flex-end;
+}
