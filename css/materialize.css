@@ -2814,7 +2814,7 @@ ul.staggered-list li {
 
 @media only screen and (max-width: 992px) {
   .hide-on-med-and-down {
-    display: none !important;
+    display: none !important;	 
   }
 }
 
@@ -4207,7 +4207,7 @@ nav .input-field label.active {
     line-height: 45px;
   }
   .navbar-fixed {
-    height: 64px;
+    height: 45px;
   }
 }
 
