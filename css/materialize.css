@@ -4192,10 +4192,12 @@ nav .input-field label.active {
 }
 
 .navbar-fixed {
-  position: relative;
-  height: 56px;
-  z-index: 997;
-  text-align: center;
+	position: relative;
+  	height: 56px;
+  	z-index: 997;
+  	text-align: center;
+  	margin: 0 auto;
+	width: 100%;
 }
 
 .navbar-fixed nav {
