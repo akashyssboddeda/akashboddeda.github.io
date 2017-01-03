@@ -4199,7 +4199,7 @@ nav .input-field label.active {
   	margin: 0 auto;
 }
 
-nav ul {
+nav .navbar-fixed .ul li {
 	text-align: center;
 }
 
