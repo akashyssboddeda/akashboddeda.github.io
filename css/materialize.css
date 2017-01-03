@@ -4197,7 +4197,7 @@ nav .input-field label.active {
   	z-index: 997;
   	text-align: center;
   	margin: 0 auto;
-	width: 100%;
+	width: 90vw;
 }
 
 .navbar-fixed nav {
