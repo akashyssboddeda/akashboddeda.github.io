@@ -4116,6 +4116,7 @@ nav .brand-logo i.material-icons {
 
 nav ul {
   margin: 0;
+  text-align: center;
 }
 
 nav ul li {
@@ -4199,9 +4200,7 @@ nav .input-field label.active {
   	margin: 0 auto;
 }
 
-nav .navbar-fixed .ul li {
-	text-align: center;
-}
+
 
 .navbar-fixed nav {
   position: fixed;
