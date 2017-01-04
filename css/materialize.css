@@ -5,6 +5,12 @@ body {
 	font-family: "Roboto", sans-serif;
 }
 
+.jumbotron {
+	height: 600px;
+	background-repeat: no-repeat;
+	background-image: url("#");
+	background-size: contain;
+}
 /*!
  * Materialize v0.97.8 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
