@@ -6,7 +6,7 @@ body {
 }
 
 .jumbotron {
-	height: 300px;
+	height: 400px;
 	background-repeat: no-repeat;
 	background-image: url("#");
 	background-size: contain;
