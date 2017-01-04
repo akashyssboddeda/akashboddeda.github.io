@@ -4015,7 +4015,7 @@ input[type=range] + .thumb {
 }
 
 nav {
-  color: #263238;
+  color: #000000;
   background-color: #ffffff;
   width: 100%;
   height: 56px;
@@ -4195,7 +4195,7 @@ nav .input-field label.active {
 .navbar-fixed {
 	position: relative;
   	height: 56px;
-  	z-index: 0;
+  	z-index: 996;
   	text-align: center;
   	margin: 0 auto;
 	width: 100%;
