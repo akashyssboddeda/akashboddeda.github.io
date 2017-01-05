@@ -4208,6 +4208,10 @@ nav .input-field label.active {
 	width: 100%;
 }
 
+.wrap {
+	text-align: center;
+}
+
 
 
 .navbar-fixed nav {
