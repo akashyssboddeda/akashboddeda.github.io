@@ -8,7 +8,7 @@ body {
 .jumbotron {
 	height: 400px;
 	background-repeat: no-repeat;
-	background-image: url("#");
+	background-image: url("https://images.pexels.com/photos/253892/pexels-photo-253892.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
 	background-size: contain;
 }
 /*!
